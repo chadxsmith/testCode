@@ -278,6 +278,14 @@ body,
 
 
 /*Test Styles */
+.wrapper {
+  position: relative;
+  min-height: 100%;
+/*  display: inline-block;*/
+  width: 1235px;
+  
+}
+
 .sidebar {
   background: green;
   outline: 1px solid red;
@@ -298,13 +306,7 @@ body,
   top: 80px;
 }
 
-.wrapper {
-  position: relative;
-  min-height: 100%;
-  display: inline-block;
-  width: 1200px;
-  
-}
+
 
 .main-nav {
   background: black;
@@ -325,7 +327,9 @@ body,
   z-index: 200;
 }
 
-
+.logo{
+  position: relative;
+}
 
 
 
