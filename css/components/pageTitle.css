@@ -1,0 +1,22 @@
+/*.nc-pageTitle{
+	font-size: 48px;
+	line-height: 1.25;
+	color: #092940;
+	font-weight:normal;
+}
+*/
+/*.nc-pageTitle:after {
+  content: "";
+  display: block;
+  background-color: #397aac;
+  height: 10px;
+  margin-top: 21px;
+ }*/
+
+/*Create Specific Page Names' Underscore Here: */
+/* .nc-pageTitle--companyInformation:after{
+   width: 260px !important;
+ }
+
+
+*/

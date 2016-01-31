@@ -1,0 +1,24 @@
+/*
+
+.container--expanded {
+  width: 1270px;
+  padding-left: 40px;
+  padding-right: 40px;
+  max-width: none !important;
+}
+
+.container{
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.container, .nc-sidebarNav {
+    display: table-cell;
+}
+
+
+.container--All {
+    display: table;
+    width: 1270px;
+    max-width: none !important;
+}*/
